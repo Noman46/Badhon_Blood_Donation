@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+body
+{
+margin:0px;
+padding:0px;
+background-size:cover;
+font-family:sans-serif;
+}
+
+.title
+{
+text-align:center;
+padding:50px 0 20px;
+}
+
+.title h1
+{
+margin:0;
+padding:0;
+color: black;
+text-transform: uppercase;
+font-size: 36px;
+
+}
+
+.container
+{
+width:60%;
+height:600px;
+background: #fff;
+margin: 0 auto;
+border: 2px solid #fff;
+box-shadow: 0 15px 40px rgba(0,0,0,.5);
+opacity:0.95;
+}
+
+.container .left
+{
+
+width:206px;
+height:206px;
+margin: 1px;
+background-size:cover;
+border: 2px solid black;
+box-sizing: border-box;
+}
+
+
