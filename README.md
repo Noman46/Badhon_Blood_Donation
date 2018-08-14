@@ -41,16 +41,11 @@ of Mawlana Bhashani Science and Technology University.
      
   #Screen Shots
   
-  <img src="src/main/webapp/static/images/11.PNG" width="600"/>
+  <img src="baddhon/1.PNG" width="600"/>
   
-  <img src="src/main/webapp/static/images/22.PNG" width="600"/>
+  <img src="baddhon/2.PNG" width="600"/>
   
-  <img src="src/main/webapp/static/images/33.PNG" width="600"/>
+  <img src="baddhon/3.PNG" width="600"/>
   
-  <img src="src/main/webapp/static/images/44.PNG" width="600"/>
-  
-  <img src="src/main/webapp/static/images/5.PNG" width="600"/>
-  
-  <img src="src/main/webapp/static/images/6.PNG" width="600"/>
-  
-  <img src="src/main/webapp/static/images/7.PNG" width="600"/>
+  <img src="baddhon/4.PNG" width="600"/>
+
